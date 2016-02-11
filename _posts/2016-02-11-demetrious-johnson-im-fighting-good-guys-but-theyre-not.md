@@ -37,7 +37,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://mmajunkie.com/2016/02/demetrious-johnson-im-fighting-good-guys-but-theyre-not-benavidez-or-dodson'
 title: "Demetrious Johnson: I'm fighting good guys, but they're not Benavidez or Dodson"
-datePublished: '2016-02-11T18:01:32.260Z'
+datePublished: '2016-02-11T18:01:42.119Z'
 dateModified: '2016-02-11T17:59:22.775Z'
 sourcePath: _posts/2016-02-11-demetrious-johnson-im-fighting-good-guys-but-theyre-not.md
 published: true
