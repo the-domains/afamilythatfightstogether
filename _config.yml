@@ -1,12 +1,24 @@
-layout_spectrum: 0.2371565
-typography_spectrum: 0.08781359
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.9402103
-  lightness: 0.7818906
-  brandStrength: 0.8476702
+  saturation: 1
+  brandStrength: 0.6756272
+  lightness: 0.5800478
   brandColors:
     - '#010101'
     - '#C5C5C8'
     - '#2F2F31'
-  rhythmicContrast: 0.2797325
+  rhythmicContrast: 1
+typography_spectrum: 0.7998805
+layout_spectrum: 0.9468339
 name: Afamilythatfightstogether
