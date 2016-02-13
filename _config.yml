@@ -1,5 +1,7 @@
-favicon: null
-name: Afamilythatfightstogether
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -18,21 +20,19 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 1
+  saturation: 0.8106332
   brandStrength: 0.6756272
-  lightness: 0.4318996
+  lightness: 0.5489844
   brandColors:
     - '#010101'
     - '#C5C5C8'
     - '#2F2F31'
-  rhythmicContrast: 0.364994
+  rhythmicContrast: 0.4880525
 typography_spectrum: 0.114098
 layout_spectrum: 0.7317801
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Afamilythatfightstogether
