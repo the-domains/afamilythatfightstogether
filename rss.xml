@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Afamilythatfightstogether]]></title>
         <description><![CDATA[Afamilythatfightstogether]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/afamilythatfightstogether/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 03:20:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 03:38:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/afamilythatfightstogether/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2668d1c5-3f35-410a-a164-61af9af5478a.JPG">]]></description>
+            <link>https://thegrid.ai/afamilythatfightstogether/7ed18828-7ded-4bdd-a5d7-3bb87b1b1e58/index.html</link>
+            <guid isPermaLink="false">7ed18828-7ded-4bdd-a5d7-3bb87b1b1e58</guid>
+            <pubDate>Sat, 13 Feb 2016 03:37:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8c51c9-e731-46da-ae5d-682ad94fc09f.JPG">]]></description>
-            <link>undefined8ee0a4a4-ef3c-4b05-b508-739d1d8e17d3/index.html</link>
+            <link>https://thegrid.ai/afamilythatfightstogether/8ee0a4a4-ef3c-4b05-b508-739d1d8e17d3/index.html</link>
             <guid isPermaLink="false">8ee0a4a4-ef3c-4b05-b508-739d1d8e17d3</guid>
             <pubDate>Sat, 13 Feb 2016 03:20:26 GMT</pubDate>
         </item>
